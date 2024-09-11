@@ -12,7 +12,7 @@ email: daniel.bocash@gmail.com
 # email_title: Email (Email title override)
 phone: (603)988-5891
 # phone_title: Phone (Phone title override)
-website: https://dbocash.github.io/DanielBocashResumePage/
+website: Daniel Bocash's Website
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -74,8 +74,8 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: UNH Interoperability Lab
+        sub_title: Senior Test Engineer
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
